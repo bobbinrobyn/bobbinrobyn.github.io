@@ -16,5 +16,10 @@ The vast majority of IBMers are novice tool users who do not get maximum value o
 - Accelerate user discovery of our tools and how to use them productively 
 - Get more value out of existing tool suite
 
+## My contributions
+- [User research](https://ibm.box.com/s/bwqwof40q84x42i5kuq1qd135bfq9t2b) (8 IBMers, 5 stakeholders)
+- UX design and prototyping - _see below_
+- [Executive playback](https://ibm.box.com/s/zy8wu0gtgf10kcz7xadr5yz5s79jdb9y)
+
 ## Solution prototype
 Automations that enhance and integrate tools and make it easier for IBMers to do higher value work.

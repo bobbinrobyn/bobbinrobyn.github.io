@@ -29,7 +29,7 @@ Automations that enhance and integrate tools and make it easier for IBMers to do
 
 In this example, I detail how a power up in Slack could help IBMers navigate the complex and opaque procurement process.
 
-_Imagine being able to get help with procurement straight from Slack._
+_What if you could get help with procurement straight from Slack, the tool you already spend most of your time in?_
 ![procurement power up](/images/power-ups/procurement-1.png)
 
 _There would be no more wasted time hunting for the right IBMer to talk to._

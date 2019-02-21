@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+![photo of Robyn](images/robyn-pic3_small.jpg)
 
-### More Information
+Hi there! I'm a user experience designer, going on 5 years at IBM. Some of my super powers are design strategy, content strategy, user research, and stakeholder management. I've also got a lot of experience around developing empowered teams and healthy ways of working.
 
-A place to include any other types of information that you'd like to include about yourself.
+I earned a Master of Design in Communication Planning & Information Design from Carnegie Mellon University. Before that, I graduated from Texas A&M University with a bachelor's degree in architecture.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[robynlhammond@gmail.com](mailto:robynlhammond@gmail.com)

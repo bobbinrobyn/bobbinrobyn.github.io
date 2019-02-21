@@ -4,6 +4,7 @@ title: Power Ups
 ---
 
 ![example power up](/images/power-ups/slack-and-bluepages.png)
+_Imagine if Slack automatically connected to Bluepages to clear up name confusion_
 
 ## In a nutshell
 In 4Q 2017, I led the user research, UX design, and prototyping for the Power Ups project within IBM CIO. Jeff Robke was the project lead, and I was the sole designer on the project. Our mission was to quickly validate the problem that IBMers are not getting as much value and productivity from the current tools suite as they could, and then propose a potential solution. We pitched the idea that new, small automations (“power ups”) integrated with the tool suite could help IBMers do more high-value work. In December, I led an executive playback to our VP and received a green light to turn this into a real, long-term project and build out a team to do the work! The project was a huge success and has the direct goal of making work better for IBMers.
@@ -25,6 +26,17 @@ The vast majority of IBMers are novice tool users who do not get maximum value o
 
 ## Solution prototype
 Automations that enhance and integrate tools and make it easier for IBMers to do higher value work.
+
+In this example, I detail how a power up in Slack could help IBMers navigate the complex and opaque procurement process.
+
+![procurement power up](/images/power-ups/Screen Shot 2019-02-21 at 12.30.02 PM.png)
+_Imagine being able to get help with procurement straight from Slack_
+
+![procurement power up](/images/power-ups/Screen Shot 2019-02-21 at 12.30.31 PM.png)
+_There would be no more hunting for the right IBMer to talk to_
+
+![procurement power up](/images/power-ups/Screen Shot 2019-02-21 at 12.30.45 PM.png)
+_You could be automatically kept up to date on the status of your request_
 
 ## Where the project is now
 The first power up to be built out is an [incident manager](https://pages.github.ibm.com/power-ups/incident-manager-pages/), now available to all IBMers.

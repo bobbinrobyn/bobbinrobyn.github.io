@@ -3,7 +3,7 @@ layout: post
 title: IBM DTE CMS + Documentation
 ---
 
-![]()
+![IBM DTE CMS docs](/images/cms-docs/cms-docs-1.png)
 
 ## In a nutshell
 On December 6, 2018, we launched a robust content management system and documentation for IBM DTE authors. This replaced the previous content creation process that we quickly built out in January 2018 and that worked well enough to get DTE assets flowing onto the public internet all year.
@@ -28,6 +28,12 @@ The existing content contribution process is complex and time-consuming. It coul
 
 ## Solution
 A single content management system and streamlined contribution process for DTE authors.
+
+_The content management system is a one-stop place for DTE authors to contribute content, get it reviewed, and have it published._
+![IBM DTE CMS](/images/cms-docs/cms-1.png)
+
+_There is also a robust set of documentation to help new users ramp up with the CMS._
+![IBM DTE CMS docs](/images/cms-docs/cms-docs-2.png)
 
 ## Where the project is now
 The DTE CMS is in active use by IBM DTE authors and their collaborators. The DTE CMS docs are available to IBMers at [ibm.biz/dte-cms-docs](http://ibm.biz/dte-cms-docs).

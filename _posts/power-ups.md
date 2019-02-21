@@ -29,14 +29,14 @@ Automations that enhance and integrate tools and make it easier for IBMers to do
 
 In this example, I detail how a power up in Slack could help IBMers navigate the complex and opaque procurement process.
 
+_Imagine being able to get help with procurement straight from Slack._
 ![procurement power up](/images/power-ups/procurement-1.png)
-_Imagine being able to get help with procurement straight from Slack_
 
+_There would be no more wasted time hunting for the right IBMer to talk to._
 ![procurement power up](/images/power-ups/procurement-2.png)
-_There would be no more hunting for the right IBMer to talk to_
 
+_You could be automatically kept up to date on the status of your request._
 ![procurement power up](/images/power-ups/procurement-3.png)
-_You could be automatically kept up to date on the status of your request_
 
 ## Where the project is now
 The first power up to be built out is an [incident manager](https://pages.github.ibm.com/power-ups/incident-manager-pages/), now available to all IBMers.

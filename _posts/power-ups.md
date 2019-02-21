@@ -29,13 +29,13 @@ Automations that enhance and integrate tools and make it easier for IBMers to do
 
 In this example, I detail how a power up in Slack could help IBMers navigate the complex and opaque procurement process.
 
-![procurement power up](/images/power-ups/Screen Shot 2019-02-21 at 12.30.02 PM.png)
+![procurement power up](/images/power-ups/procurement-1.png)
 _Imagine being able to get help with procurement straight from Slack_
 
-![procurement power up](/images/power-ups/Screen Shot 2019-02-21 at 12.30.31 PM.png)
+![procurement power up](/images/power-ups/procurement-2.png)
 _There would be no more hunting for the right IBMer to talk to_
 
-![procurement power up](/images/power-ups/Screen Shot 2019-02-21 at 12.30.45 PM.png)
+![procurement power up](/images/power-ups/procurement-3.png)
 _You could be automatically kept up to date on the status of your request_
 
 ## Where the project is now

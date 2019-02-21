@@ -7,7 +7,7 @@ title: Slack Enterprise at IBM
 _The Whitewater team was formed to make work better for IBMers via modern tools and ways of working._
 
 ## In a nutshell
-While on the Whitewater team in 2017, I played a significant role in making Slack available to all IBMers. We launched the Slack Enterprise Grid product on January 31, 2017 and saw adoption grow from 0 to 170K users (~77K active) within the year. I worked with senior leaders in 15 business units and 3 communities of practice to smoothly onboard their business units to Slack Enterprise Grid.
+While on the Whitewater team in 2017, I played a significant role in making Slack available to all IBMers. We launched the Slack Enterprise Grid product on January 31, 2017 and saw adoption grow from 0 to 170K users (100K active) within the year. I worked with senior leaders in 15 business units and 3 communities of practice to smoothly onboard their business units to Slack Enterprise Grid.
 
 ## Problem statement
 When Slack first launched in 2013, it was readily adopted by small teams, but was expensive and difficult for a company of IBM’s size to adopt. In lieu of an official option to use Slack, teams at IBM used a free version or paid for Slack on their own, which posed a huge security risk. There was initially no enterprise offering available, so the Whitewater team set out to work with Slack Corp to make the tool safe for IBMers to use.

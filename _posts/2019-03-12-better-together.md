@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Better Together: Demystifying Designer Developer Collaboration (blog post)
+title: Better Together—Demystifying Designer Developer Collaboration (blog post)
 ---
 
 ![Cross-discipline team](/images/1__JJNPq9IQQvTrL7QwCfXzw.jpeg)

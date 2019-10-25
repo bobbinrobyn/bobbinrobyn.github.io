@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Better Together: Demystifying Designer Developer Collaboration (blog post)
+title: Better Together——Demystifying Designer Developer Collaboration (blog post)
 ---
 
 In my experience, when a team is humming along with healthy designer-developer collaboration, they can do anything! Move mountains! Take on the world!

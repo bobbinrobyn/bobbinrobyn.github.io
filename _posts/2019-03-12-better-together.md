@@ -3,7 +3,8 @@ layout: post
 title: Better Together—Demystifying Designer Developer Collaboration (blog post)
 ---
 
-![It’s no surprise that the secret to healthy cross-discipline collaboration is more hard work than magic](images/1__JJNPq9IQQvTrL7QwCfXzw.jpeg)
+![Cross-discipline team](/images/1__JJNPq9IQQvTrL7QwCfXzw.jpeg)
+_It’s no surprise that the secret to healthy cross-discipline collaboration is more hard work than magic._
 
 In my experience, when a team is humming along with healthy designer-developer collaboration, they can do anything! Move mountains! Take on the world!
 

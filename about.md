@@ -6,9 +6,9 @@ permalink: /about/
 
 ![photo of Robyn](images/robyn-pic3_small.jpg)
 
-Hi there! I'm a user experience designer, going on 5 years at IBM. Some of my super powers are design strategy, content strategy, user research, and stakeholder management. I've also got a lot of experience around developing empowered teams and healthy ways of working.
+Hi there! I'm a user experience designer, going on 5 years at IBM. Some of my superpowers are design strategy, content strategy, user research, and stakeholder management. I've also got a lot of experience around developing empowered teams and healthy ways of working.
 
-I earned a Master of Design in Communication Planning & Information Design from Carnegie Mellon University. Before that, I graduated from Texas A&M University with a bachelor's degree in architecture.
+I earned a Master of Design in Communication Planning & Information Design from Carnegie Mellon University. Before that, I graduated from Texas A&M University with a Bachelor's degree in architecture.
 
 ### Contact me
 

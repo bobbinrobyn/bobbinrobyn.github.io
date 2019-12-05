@@ -3,7 +3,7 @@ layout: post
 title: What self-checkouts can teach us about design research (blog post)
 ---
 
-![Grocery store](/images/1__JJNPq9IQQvTrL7QwCfXzw.jpeg)
+![Grocery store](/images/grocery-store.jpeg)
 _Design research often reveals that people are surprisingly willing to cope with bad technology, such as self-checkout stations at the grocery store._
 
 A couple of decades ago, self-checkout stations at grocery stores were a promising new phenomenon. The idea of getting in and out of the store without having to wait in line or talk to a cashier seems incredibly appealing. And even now, if you surveyed the average grocery store shopper, they’ll probably tell you that they like the idea of self-checkouts.

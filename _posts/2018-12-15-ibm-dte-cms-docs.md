@@ -22,9 +22,15 @@ The existing content contribution process is complex and time-consuming. It coul
 ## My contributions
 - Content modeling for CMS
 - Overhauled review workflow
-- Ran 3 pilots and incorporated user feedback ahead of launch
+- Ran 3 pilots to conduct evaluative research and incorporated user feedback ahead of launch
 - Onboarded all authors and reviewers, as well as developing self-service onboarding for future new users
 - Developed documentation and published it on a new website
+
+_I ran a three-phase pilot to conduct evaluative research and integrate user feedback before the GA launch. Users had a LOT of feedback!_
+![pilot synthesis](/images/cms-docs/pilot-synthesis.png)
+
+_My team was able to implement many of my design recommendations from the pilot research, which helped lead to a very successful launch._
+![design recommendations](/images/cms-docs/cms-synthesis.png)
 
 ## Solution
 A single content management system and streamlined contribution process for DTE authors.
@@ -36,9 +42,9 @@ _There is also a robust set of documentation to help new users ramp up with the 
 ![IBM DTE CMS docs](/images/cms-docs/cms-docs-2.png)
 
 ## Where the project is now
-The DTE CMS is in active use by IBM DTE authors and their collaborators. The DTE CMS docs are available to IBMers at [ibm.biz/dte-cms-docs](http://ibm.biz/dte-cms-docs).
+The DTE CMS is in active use by IBM DTE authors and their collaborators. The DTE CMS docs are available to IBMers at [ibm.biz/dte-cms-docs](http://ibm.biz/dte-cms-docs) (IBM confidential).
 
-As of December 17, the CMS included:
+As of December 17, 2018, the CMS included:
 - 81 products (as of 12/17 on ibm-dte.mybluemix.net)
 - 140 demo environments in the CMS (of those, 124 are published)
 - 76 product tours in the CMS (of those, 65 are published)

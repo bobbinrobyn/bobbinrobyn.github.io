@@ -11,7 +11,7 @@ IBM Cloud Identity (CI) is an identity and access management tool that allows en
 For the last year and a half, I have worked with a small team of designers to design several new capabilities for CI that add functionality and improve the user experience. Below, I'll walk through my process for designing one of these features to improve a major user pain point.
 
 ## Problem statement
-Our users needed to be able to create and manage external identity sources within IBM Cloud Identity (CI). Right now, external identity sources cannot be configured and managed from within CI, which creates a disconnected experience. Some users are managed in CI, while others are managed in external (on-premises) identity sources. By enabling all identity sources to be managed in CI, there is a single source of truth from which an enterprise can manage all user authentication.
+Our users needed to be able to create and manage external identity sources within IBM Cloud Identity (CI). Right now, external identity sources cannot be configured and managed from within CI, which creates a disconnected experience. Some users are managed in CI, while others are managed in external (on-premises) identity sources. This is a nightmare for IT admins! By enabling all identity sources to be managed in CI, there is a single source of truth from which an enterprise can manage all user authentication.
 
 ## Desired outcomes
 

@@ -6,15 +6,15 @@ title: IBM Cloud Identity
 ![Final designs for an IBM Cloud Identity feature I designed](/images/cloud-identity/final-design.png)
 
 ## In a nutshell
-IBM Cloud Identity (CI) is an identity and access management tool that enables enterprises to securely manage users and their access to applications. The tool ensures that enterprises only allow applications to be accessed by users who are authenticated and authorized. This type of software tool is often considered a "necessary evil" –– it's usually not glamorous, but it is an essential part of an enterprise's security strategy. The primary users of CI are IT administrators on the configuration side, as well as employees and/or customers on the user-facing side. 
+IBM Cloud Identity (CI) is an identity and access management tool that enables enterprises to securely manage users and their access to applications. The tool ensures that enterprises only allow applications to be accessed by users who are authenticated and authorized. This type of software tool is often considered a "necessary evil" –– it's usually not glamorous, but it is an essential part of an enterprise's security strategy. The primary users of CI are IT administrators and enterprise employees and/or customers. 
 
 For the last year and a half, I have worked with a small team of designers to design several new capabilities for CI that add functionality and improve the user experience. Below, I'll walk through my process for designing one of these features to improve a major user pain point.
 
 
 ## Problem statement
-A core feature of CI is the ability to configure and manage identity sources. Unfortunately, up to this point this only included cloud-based identity sources, not external (on-premises) identity sources. This meant that some of an enterprises's users were managed in CI, while others are managed elsewhere. It was a totally disconnected experience and a nightmare for IT admins. It also created the potential for duplicate users, mismatched entitlements, and other security gaps.
+A core feature of CI is the ability to configure and manage identity sources. Unfortunately, up to this point this only included cloud-based identity sources, not external (on-premises) identity sources. This meant that some of an enterprise's users were managed in CI, while others are managed elsewhere. It was a totally disconnected experience and a nightmare for IT admins. It also created the potential for duplicate users, mismatched entitlements, and other security gaps.
 
-Our users needed to be able to create and manage all of their identity sources within IBM Cloud Identity (CI), including external identity sources. This would allow CI to be a true single source of truth from which an enterprise could manage all user authentication.
+Our users needed to be able to create and manage all of their identity sources within IBM Cloud Identity (CI), including external identity sources. This would allow CI to be a true single source of truth from which an enterprise could manage all user authentication and provisioning.
 
 
 ## Desired outcomes

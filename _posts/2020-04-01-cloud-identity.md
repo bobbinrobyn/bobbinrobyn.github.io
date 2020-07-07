@@ -3,7 +3,7 @@ layout: post
 title: IBM Cloud Identity
 ---
 
-![IBM DTE CMS docs](/images/cms-docs/cms-docs-1.png)
+![Final designs for an IBM Cloud Identity feature I designed](/images/cloud-identity/final-design.png)
 
 ## In a nutshell
 IBM Cloud Identity (CI) is an identity and access management tool that enables enterprises to securely manage users and their access to applications. The tool ensures that enterprises only allow applications to be accessed by users who are authenticated and authorized. This type of software tool is often considered a "necessary evil" –– it's usually not glamorous, but it is an essential part of an enterprise's security strategy. The primary users of CI are IT administrators on the configuration side, as well as employees and/or customers on the user-facing side. 
@@ -32,14 +32,17 @@ I led the design of this feature, and I worked with a visual designer and a team
   - What are the pieces of this thing you want to build? What makes it all come together to be displayed to the user?
 
 - Created content models to document the desired to-be state
-![IBM DTE CMS docs](/images/cms-docs/cms-docs-1.png)
+![Content model for passthrough agents](/images/cloud-identity/content-model.png)
 
 - Modeled the to-be user workflow and created initial prototypes, collaborating heavily with the dev team
-![IBM DTE CMS docs](/images/cms-docs/cms-docs-1.png)
+![To-be user workflow](/images/cloud-identity/workflow.png)
 
 - Validated content models and prototypes with stakeholders and users
-![IBM DTE CMS docs](/images/cms-docs/cms-docs-1.png)
+![Using Slack to validate content model](/images/cloud-identity/slack-content-model.png)
 
 
 ## Solution
 We delivered a simple solution for connecting external identity sources to CI and for monitoring all identity sources in a single location. We also provided a quick workflow for building the agents needed to authenticate and provision users from external identity sources. This dramatically reduces the workload for the IT admin and improves the security of enterprise user bases.
+
+![Final design](/images/cloud-identity/final-design.png)
+![Final design](/images/cloud-identity/final-design-2.png)

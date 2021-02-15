@@ -4,6 +4,7 @@ title: IBM Cloud Identity
 ---
 
 ![Final designs for an IBM Cloud Identity feature I designed](/images/cloud-identity/final-design.png)
+_Designing the future of enterprise identity and access management_
 
 ## In a nutshell
 IBM Cloud Identity (CI) is an identity and access management tool that enables enterprises to securely manage users and their access to applications. The tool ensures that enterprises only allow applications to be accessed by users who are authenticated and authorized. This type of software tool is often considered a "necessary evil" –– it's usually not glamorous, but it is an essential part of an enterprise's security strategy. The primary users of CI are IT administrators and enterprise employees and/or customers. 

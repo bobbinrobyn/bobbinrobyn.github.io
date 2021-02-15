@@ -4,7 +4,7 @@ title: IBM Cloud Pak for Security
 ---
 
 ![IBM Cloud Pak for Security](/images/cp4s/homepage.png)
-_Designing a unified platform for security tools that allow enterprises to surface threats across all their data sources and quickly respond_
+_Designing a unified platform for security tools so that enterprises can quickly surface threats and orchestrate a collaborative response_
 
 ## In a nutshell
 IBM Cloud Pak for Security (CP4S) is a security platform that brings together a number of threat management security tools. With CP4S, enterprises have a one stop shop for their entire threat management workflow. The primary users of CP4S are security analysts, incident responders, threat hunters, and IT administrators. Another important category of users are internal; CP4S empowers app teams to easily onboard to the platform, and we also contribute significantly to IBM's Cloud Pak strategic initiative and all of its collaborators.

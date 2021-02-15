@@ -4,6 +4,7 @@ title: IBM DTE CMS + Documentation
 ---
 
 ![IBM DTE CMS docs](/images/cms-docs/cms-docs-1.png)
+_Empowering IBM technical content creators to easily publish demos, tutorials, and other sales assets_
 
 ## In a nutshell
 On December 6, 2018, we launched a robust content management system and documentation for IBM DTE authors. This replaced the previous content creation process that we quickly built out in January 2018 and that worked well enough to get DTE assets flowing onto the public internet all year.

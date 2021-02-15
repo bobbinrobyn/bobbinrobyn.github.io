@@ -44,5 +44,4 @@ I led the design of the beta governance plan, and I oversaw a small team of desi
 ## Solution
 The work is being delivered in phases. In the first phase, we have implemented an initial governance plan and launched three beta apps and features using the new design pattern. In a future phase, we will enhance the design pattern and included a feedback mechanism as part of the governance plan.
 
-![Final design](/images/cp4s/beta1.png)
-![Final design](/images/cp4s/beta2.png)
+_The beta design pattern is in a pre-release state of its own! Happy to share upon request._

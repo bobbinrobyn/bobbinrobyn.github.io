@@ -9,13 +9,15 @@ _Designing a unified platform for security tools so that enterprises can quickly
 ## In a nutshell
 IBM Cloud Pak for Security (CP4S) is a security platform that brings together a number of threat management security tools. With CP4S, enterprises have a one stop shop for their entire threat management workflow. The primary users of CP4S are security analysts, incident responders, threat hunters, and IT administrators. Another important category of users are internal; CP4S empowers app teams to easily onboard to the platform, and we also contribute significantly to IBM's Cloud Pak strategic initiative and all of its collaborators.
 
-For the last year, I have led a team of designers to deliver new capabilities for Cloud Pak for Security platform that add functionality and improve the user experience. Below, I'll walk through the collaborative process for improving a user pain point while also adding functionality.
+For the last year, I have led a team of designers to deliver new capabilities for Cloud Pak for Security platform that add functionality and improve the user experience. I lead the design process from research, to exploration and validation, to final designs and delivery. As part of that process, I collaborate with stakeholders across a multi-disciplinary team to champion the needs of our users and deliver amazing outcomes.
+
+Below, I'll walk through the collaborative process for improving a user pain point while also adding functionality.
 
 
 ## Problem statement
 A core value for CP4S is empowering application teams to easily onboard their app to the platform. Until recently, we could only support production-ready apps. For apps that wanted to release a preview or early release of some kind, they had to hack at the existing experience and make it work for a beta release. Each app went about differently, which was frustrating for them and a bad experience for end users.
 
-Our app teams needed a programatic way to release an app or feature in beta, and our users needed to have appropriate expectations for using a beta app or feature. The entire experience needed to be designed, rather than mashed together without a lot of thought.
+Our app teams needed a programmatic way to release an app or feature in beta, and our users needed to have appropriate expectations for using a beta app or feature. The entire experience needed to be designed, rather than mashed together without a lot of thought.
 
 
 ## Desired outcomes
